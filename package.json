@@ -1,0 +1,29 @@
+{
+  "name": "@axel669/range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine tests/**/*.js --reporter=@axel669/jasmine-basic-reporter",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel669/range.git"
+  },
+  "keywords": [
+    "range",
+    "array"
+  ],
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axel669/range/issues"
+  },
+  "homepage": "https://github.com/axel669/range#readme",
+  "devDependencies": {
+    "@axel669/jasmine-basic-reporter": "^1.1.0",
+    "jasmine": "^3.4.0",
+    "rollup": "^1.10.1"
+  }
+}
