@@ -25,5 +25,11 @@
     "@axel669/jasmine-basic-reporter": "^1.1.0",
     "jasmine": "^3.4.0",
     "rollup": "^1.10.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "/esm",
+    "/standalone",
+    "LICENCE"
+  ]
 }
